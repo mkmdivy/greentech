@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/greentech/static/css/main.803d1a74.chunk.css",
+    "main.js": "/greentech/static/js/main.c279a679.chunk.js",
+    "main.js.map": "/greentech/static/js/main.c279a679.chunk.js.map",
+    "runtime-main.js": "/greentech/static/js/runtime-main.6c19957b.js",
+    "runtime-main.js.map": "/greentech/static/js/runtime-main.6c19957b.js.map",
+    "static/js/2.355347e3.chunk.js": "/greentech/static/js/2.355347e3.chunk.js",
+    "static/js/2.355347e3.chunk.js.map": "/greentech/static/js/2.355347e3.chunk.js.map",
+    "index.html": "/greentech/index.html",
+    "precache-manifest.16c56cfeb78acd309eddafb8f2f76850.js": "/greentech/precache-manifest.16c56cfeb78acd309eddafb8f2f76850.js",
+    "service-worker.js": "/greentech/service-worker.js",
+    "static/css/main.803d1a74.chunk.css.map": "/greentech/static/css/main.803d1a74.chunk.css.map",
+    "static/js/2.355347e3.chunk.js.LICENSE.txt": "/greentech/static/js/2.355347e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c19957b.js",
+    "static/js/2.355347e3.chunk.js",
+    "static/css/main.803d1a74.chunk.css",
+    "static/js/main.c279a679.chunk.js"
+  ]
+}
