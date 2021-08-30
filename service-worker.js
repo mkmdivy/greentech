@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/greentech/precache-manifest.16c56cfeb78acd309eddafb8f2f76850.js"
+  "/greentech/precache-manifest.023882b707049d5a569fda945dd837c4.js"
 );
 
 self.addEventListener('message', (event) => {
